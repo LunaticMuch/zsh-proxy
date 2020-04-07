@@ -1,7 +1,6 @@
 # zsh-proxy
 
-[![Author](https://img.shields.io/badge/Author-Sukka-b68469.svg?style=flat-square)](https://skk.moe)
-[![License](https://img.shields.io/github/license/sukkaw/zsh-proxy.svg?style=flat-square)](./LICENSE)
+
 
 :nut_and_bolt: An [`oh-my-zsh`](https://ohmyz.sh/) plugin to configure proxy for some packages manager and software.
 
@@ -123,7 +122,9 @@ $ rm -rf ~/.zsh-proxy
 - learn some from [arch wiki](https://wiki.archlinux.org/index.php/Proxy_server)
 
 ## Author
+This is a fork done by Stefano Cislaghi
 
+The original author is listed below.
 **zsh-proxy** © [Sukka](https://github.com/SukkaW), Released under the [MIT](https://github.com/SukkaW/zsh-proxy/blob/master/LICENSE) License.<br>
 Authored and maintained by Sukka with help from contributors ([list](https://github.com/SukkaW/zsh-proxy/graphs/contributors)).
 
